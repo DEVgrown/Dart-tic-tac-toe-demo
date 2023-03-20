@@ -1,1 +1,1 @@
-This is a demo for a tic-tac-toe game
+This is a readme for a demo for a tic-tac-toe game
